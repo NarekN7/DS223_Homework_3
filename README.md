@@ -18,5 +18,4 @@ Open the notebook and “Restart & Run All”. The current `lifelines` release (
 ## Extra notes
 - CLV is computed with a $1 monthly margin, 60‑month horizon, 10% annual discount.
 - Retention budget = 15% of the CLV tied to subscribers with >50% churn odds inside 12 months.
-- If `lifelines` adds more AFT models in the future, just drop them into the `aft_models` dict and re-run.
 
